@@ -1,0 +1,59 @@
+.borda-redonda{
+	border-radius: 20px;	
+}
+
+.panel-danger{
+	background-color:red;
+}
+
+.panel-danger > .panel-heading {
+	background-color: red;
+}
+
+.panel-heading{
+	border-width: 0;
+}
+
+.panel-warning{
+	background-color:yellow;
+}
+
+.panel-warning > .panel-heading {
+	background-color: yellow;
+
+}
+
+#jiras-atrasados{
+		font-size: 60px;
+		font-weight: bold;
+		color: white;
+}
+
+#jiras-vencendo{
+		font-size: 60px;
+		font-weight: bold;
+		color: black;
+}
+
+p{
+		font-size: 150px;
+		font-weight: bold;
+}
+
+span{
+		font-size: 20px;
+		font-weight: bold;
+
+}
+
+.color-white{
+		color: white;
+}
+.color-black{
+	color:black;
+}
+
+.color-red{
+	color:red;
+}
+
